@@ -1,0 +1,6 @@
+[submodule "gas-monitoring-web"]
+	path = gas-monitoring-web
+	url = https://github.com/MegaMind199/Gas_monitoring_web.git
+[submodule "gas-monitoring-dev"]
+	path = gas-monitoring-dev
+	url = https://github.com/MegaMind199/Gas_monitoring_dev
